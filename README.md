@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome 👋
 
 <!--
 **paulamosinabre/paulamosinabre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+**About me**
+• 🏫I'm currently a freshman in National University-Dasmarinas
+• 🤖 I'm specializing in machine learning
+• 💡 I would love to learn about front-end developing as well
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=paulamosinabre)](https://git.io/streak-stats)
