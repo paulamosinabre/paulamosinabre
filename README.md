@@ -1,23 +1,18 @@
-## Welcome 👋
 
-<!--
-**paulamosinabre/paulamosinabre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align = "center"><b> Hello, I am Paula! </b></h1>  
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me  
+- 🏫I'm currently a freshman in National University-Dasmarinas  
+- 🤖 I'm specializing in machine learning  
+- 💡 I would love to learn about front-end developing as well  
 
-**About me**  /
-• 🏫I'm currently a freshman in National University-Dasmarinas  /
-• 🤖 I'm specializing in machine learning  /
-• 💡 I would love to learn about front-end developing as well  /
+<br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=paulamosinabre)](https://git.io/streak-stats)
+## Github Stats
+<a href = "https://git.io/streak-stats"><img src = "https://streak-stats.demolab.com?user=paulamosinabre"></a> 
+
+
+| <a href="https://github.com/paulamosinabre/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=paulamosinabre&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Paula's github stats" /></a> | <a href="https://github.com/paulamosinabre/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulamosinabre&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
