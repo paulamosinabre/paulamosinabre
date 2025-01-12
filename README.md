@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**About me**
-• 🏫I'm currently a freshman in National University-Dasmarinas
-• 🤖 I'm specializing in machine learning
-• 💡 I would love to learn about front-end developing as well
+**About me**  /
+• 🏫I'm currently a freshman in National University-Dasmarinas  /
+• 🤖 I'm specializing in machine learning  /
+• 💡 I would love to learn about front-end developing as well  /
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=paulamosinabre)](https://git.io/streak-stats)
