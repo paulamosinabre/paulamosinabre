@@ -4,7 +4,7 @@
 <br>
 
 ## About me  
-- 🏫I'm currently a sophomore in National University-Dasmarinas  
+- 🏫I'm currently a junior in National University-Dasmarinas  
 - 🤖 I'm specializing in machine learning  
 - 💡 I study back-end but I would love to learn about front-end developing as well  
 
